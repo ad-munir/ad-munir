@@ -1,4 +1,4 @@
-![Header](./github-banner.png)
+<img src="https://github.com/ad-munir/ad-munir/blob/main/github-banner.png?raw=true" alt="header" />
 
 <h1 align="center">Hi 👋, I'm Mounir</h1>
 <h3 align="center">A passionate full stack web developer from Morocco</h3>
