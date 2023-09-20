@@ -1,6 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...
-)](https://rishavchanda.io
-)
+<img src="https://www.canva.com/design/DAFjXailWws/I4JS06ARKLZMMusOOnR3Kg/view?utm_content=DAFjXailWws&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="ad-munir" />
 
 <h1 align="center">Hi 👋, I'm Mounir</h1>
 <h3 align="center">A passionate full stack web developer from Morocco</h3>
