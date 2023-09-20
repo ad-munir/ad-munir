@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mounir</h1>
 <h3 align="center">A passionate full stack web developer from Morocco</h3>
-<p align="left"> <img src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" alt="ad-munir" /> </p>
+<p align="left"> <img width="100%" src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" alt="ad-munir" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ad-munir&label=Profile%20views&color=0e75b6&style=flat" alt="ad-munir" /> </p>
 
