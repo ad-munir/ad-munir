@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **a Spring Boot, React Project**
 
-- 🌱 I’m currently learning **Spring Security**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **Spring Boot, React**
 
