@@ -83,15 +83,15 @@
 <img src="http://github-readme-streak-stats.herokuapp.com?user=ad-munir&theme=gruvbox-duo&border_radius=&card_width=470&dates=EBEBEB&sideLabels=EB5454" alt="GitHub Streak" />
 </p>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibMan)](https://github.com/anuraghazra/github-readme-stats)
- -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ad-munir&theme=algolia)
+
 <p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ad-munir&show_icons=true&locale=en&layout=compact" alt="ad-munir" />
  </p>
 <p align="center">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ad-munir&theme=algolia" alt="mounir ayad" />
 </p>
 
-<h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"></h2>
+<h2 align="center"></h2>
 
 <p align="center">
     
