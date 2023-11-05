@@ -86,14 +86,14 @@
 
 <p align="center">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ad-munir&theme=algolia" alt="mounir ayad" />
-</p>
-<p align="center">
+
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ad-munir&theme=algolia" alt="mounir ayad" />
+
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ad-munir&theme=algolia" alt="mounir ayad" />
 </p>
 
 
-<p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ad-munir&show_icons=true&locale=en&layout=compact" alt="ad-munir" />
- </p>
+
 <p align="center">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ad-munir&theme=algolia" alt="mounir ayad" />
 </p>
