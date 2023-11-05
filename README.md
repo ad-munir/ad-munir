@@ -83,7 +83,10 @@
 <img src="http://github-readme-streak-stats.herokuapp.com?user=ad-munir&theme=gruvbox-duo&border_radius=&card_width=470&dates=EBEBEB&sideLabels=EB5454" alt="GitHub Streak" />
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ad-munir&theme=algolia)
+<p align="center">
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ad-munir&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ad-munir&theme=algolia)
+</p>
 
 <p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ad-munir&show_icons=true&locale=en&layout=compact" alt="ad-munir" />
  </p>
