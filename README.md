@@ -1,12 +1,3 @@
-<img src="https://github.com/ad-munir/ad-munir/blob/main/github-banner.png?raw=true" alt="header" />
-
-<h3 align="center">A passionate full stack developer from Morocco</h3>
-<img width="100%" src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" alt="ad-munir" />
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-
-
 <img width=100% title="Coder Abhi." alt="CoderAbhi.0713" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Born-To-Code🔰&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 ### Hi 👋, I am Mounir
