@@ -7,7 +7,7 @@
 
 - 💬 I am looking for open-source projects to contribute in
   
-- 🔭 I’m currently working on **a CI/CD Project**
+- 🔭 I’m currently working on **a CI/CD Pipeline**
 
 - 🌱 I’m currently learning **Devops**
 
