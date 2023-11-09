@@ -24,9 +24,10 @@
 <h2>:fire: Languages & Tools:</h2>
 <p align="center">
     <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="jenkins" width="60" height="60" /> </a> <a
-        href="https://angular.io/" target="_blank" rel="noreferrer"> <img
-            src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="jenkins" height="60" /> </a>
+  
+  <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img
+            src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png"
             alt="angular" width="60" height="60" /> </a>
 </p>
 
