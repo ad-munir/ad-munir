@@ -23,7 +23,11 @@
 
 <h2>:fire: Languages & Tools:</h2>
 <p align="center">
-    <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+            alt="react" width="60" height="60" /> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60" />
+    </a><a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="jenkins" height="60" /> </a><a href="https://angular.io/" target="_blank" rel="noreferrer"> <img
             src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png"
             alt="angular" width="60" height="60" /> </a>
@@ -88,11 +92,7 @@
             src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60"
             height="60" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="60" height="60" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="60" height="60" /> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60" />
-    </a>
+            alt="python" width="60" height="60" /> </a> 
 </p>
 
 
