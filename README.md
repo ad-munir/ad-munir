@@ -34,8 +34,9 @@
 </p>
 
 <p align="center">
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img
-            src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" height="60" /> </a> <a
+   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
+            width="60" height="60" /> </a> <a
         href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="60" height="60" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
@@ -60,9 +61,7 @@
 </p>
 
 <p align="center">
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="60" height="60" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="60" height="60" /> </a><a href="https://laravel.com/" target="_blank"
@@ -71,7 +70,8 @@
             alt="laravel" width="60" height="60" /> </a> <a href="https://www.linux.org/" target="_blank"
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-            width="60" height="60" /> </a>
+            width="60" height="60" /> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img
+            src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" height="60" /> </a>
 </p>
 
 <p align="center">
