@@ -7,7 +7,7 @@
 
 - 💬 I am looking for open-source projects to contribute in
   
-- 🔭 I’m currently working on **implementing a micro-services archetecture**
+- 🔭 I’m currently working on **implementing a micro-services architecture**
 
 - 🌱 I’m currently learning **Devops**
 
