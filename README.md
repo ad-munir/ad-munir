@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mounir-ayad-321a46241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mounir-ayad-321a46241" height="30" width="40" /></a>
 </p>
-
+ 
 <h2>:fire: Languages & Tools:</h2>
 <p align="center">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
