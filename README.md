@@ -117,7 +117,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ad-munir&theme=algolia" alt="mounir ayad" />
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ad-munir&row=2&column=3" alt="ad-munir" /></a> </p>
 
 </p>
 
@@ -135,3 +134,6 @@
     <img src="https://komarev.com/ghpvc/?username=ad-munir">
 </a>
 </p>
+
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ad-munir&row=2&column=3" alt="ad-munir" /></a> </p>
